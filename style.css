@@ -1,0 +1,56 @@
+body{
+	margin:0;
+	padding:0;
+}
+.container{
+	
+	height: 1000px;
+	background-color: blue;
+	width: 85%;
+	margin: 0 auto;	
+}
+.header{
+	background-color: red;
+	width: 85%;
+	height: 20%;
+	margin: 0 auto;	
+
+}
+.midsection{
+	background-color: yellow;
+	width: 85%;
+	height: 30%;
+	margin: 0 auto;	
+}
+.doc{
+	background-color: green;
+	width: 85%;
+	height: 30%;
+	margin: 0 auto;	
+}
+.footer{
+	background-color: purple;
+	width: 85%;
+	height: 20%;
+	margin: 0 auto;	
+}
+.form{
+	float: right;
+}
+.image{
+	float:left;
+	width:30%;
+	background-image: url(images.png); 
+	height: 100%;
+}
+.image1{
+	float:left;
+	width:30%;
+	background-color: grey; 
+	height: 100%;
+}
+.validation{
+	float: left;
+	color:red;
+	width: 30%;
+}
